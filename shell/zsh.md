@@ -57,20 +57,17 @@ Profiles - Text - Font - Change Font - Use a different font for non-ASCII text -
 
 # zsh themes references
 zsh themes  
-[https://github.com/robbyrussell/oh-my-zsh/wiki/themes]
-(https://github.com/robbyrussell/oh-my-zsh/wiki/themes)
+[https://github.com/robbyrussell/oh-my-zsh/wiki/themes](https://github.com/robbyrussell/oh-my-zsh/wiki/themes)
 
 zsh2000
 ![zsh2000 image](https://raw.githubusercontent.com/maverick9000/zsh2000/master/demo.png)
-[https://github.com/maverick9000/zsh2000]
-(https://github.com/maverick9000/zsh2000)
+[https://github.com/maverick9000/zsh2000](https://github.com/maverick9000/zsh2000)
 
 agnoster  
 ![agnoster image](https://gist.githubusercontent.com/agnoster/3712874/raw/screenshot.png)
-[https://github.com/agnoster/agnoster-zsh-theme]
-(https://github.com/agnoster/agnoster-zsh-theme)
+[https://github.com/agnoster/agnoster-zsh-theme](https://github.com/agnoster/agnoster-zsh-theme)
+
 
 
 # Why zsh is Cooloer than Your Shell
-[https://www.slideshare.net/brendon_jag/why-zsh-is-cooler-than-your-shell]
-(https://www.slideshare.net/brendon_jag/why-zsh-is-cooler-than-your-shell)
+[https://www.slideshare.net/brendon_jag/why-zsh-is-cooler-than-your-shell](https://www.slideshare.net/brendon_jag/why-zsh-is-cooler-than-your-shell)
