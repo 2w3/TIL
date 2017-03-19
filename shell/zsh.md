@@ -71,3 +71,6 @@ agnoster
 
 # Why zsh is Cooloer than Your Shell
 [https://www.slideshare.net/brendon_jag/why-zsh-is-cooler-than-your-shell](https://www.slideshare.net/brendon_jag/why-zsh-is-cooler-than-your-shell)
+
+# My favourite Zsh features
+[http://code.joejag.com/2014/why-zsh.html](http://code.joejag.com/2014/why-zsh.html)
