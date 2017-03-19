@@ -36,6 +36,8 @@ vim ~/.zshrc
 #ZSH_THME="robbyrussell"
 ZSH_THME="random"
 ```
+random으로 설정하면 terminal이 열릴때마다 theme가 바뀐다.
+
 # powerline font 설치
 ```
 git clone https://github.com/powerline/fonts.git 
@@ -54,15 +56,16 @@ Profiles - Text - Font - Change Font - Use a different font for non-ASCII text -
 
 
 # zsh themes references
+zsh themes  
+[https://github.com/robbyrussell/oh-my-zsh/wiki/themes]
+(https://github.com/robbyrussell/oh-my-zsh/wiki/themes)
 
 zsh2000
-  
 ![zsh2000 image](https://raw.githubusercontent.com/maverick9000/zsh2000/master/demo.png)
 [https://github.com/maverick9000/zsh2000]
 (https://github.com/maverick9000/zsh2000)
 
 agnoster  
-
 ![agnoster image](https://gist.githubusercontent.com/agnoster/3712874/raw/screenshot.png)
 [https://github.com/agnoster/agnoster-zsh-theme]
 (https://github.com/agnoster/agnoster-zsh-theme)
