@@ -77,3 +77,6 @@ agnoster
 
 # zsh Plguins
 [https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#github](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#github)
+
+# open finder on zsh
+`open ./`
