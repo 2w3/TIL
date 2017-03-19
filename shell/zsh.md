@@ -74,3 +74,6 @@ agnoster
 
 # My favourite Zsh features
 [http://code.joejag.com/2014/why-zsh.html](http://code.joejag.com/2014/why-zsh.html)
+
+# zsh Plguins
+[https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#github](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#github)
