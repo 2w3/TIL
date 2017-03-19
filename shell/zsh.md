@@ -80,3 +80,6 @@ agnoster
 
 # open finder on zsh
 `open ./`
+
+# move previous directory
+`cd - `
