@@ -23,6 +23,10 @@ source /usr/local/bin/virtualenvwrapper.sh
 mkvirtualenv {create virtualenv name}
 ```
 New virtualenv is automatically activated after being initialized.
+# create python2 virtualenv
+```
+mkvirtualenv {create virtualenv name} -python=pyton2.7
+```
 # create python3 virtualenv
 ```
 mkvirtualenv {create virtualenv name} -python=pyton3
