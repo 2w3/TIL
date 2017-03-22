@@ -25,11 +25,11 @@ mkvirtualenv {create virtualenv name}
 New virtualenv is automatically activated after being initialized.
 # create python2 virtualenv
 ```
-mkvirtualenv {create virtualenv name} -python=pyton2.7
+mkvirtualenv {create virtualenv name} --python='which python'
 ```
 # create python3 virtualenv
 ```
-mkvirtualenv {create virtualenv name} -python=pyton3
+mkvirtualenv {create virtualenv name} --python='which python3'
 ```
 
 # activate virtualenv
