@@ -53,6 +53,7 @@ lsvirtualenv
 rmvirtualenv {virtualenv name}
 ```
 # reference url
+[https://bitbucket.org/dhellmann/virtualenvwrapper](https://bitbucket.org/dhellmann/virtualenvwrapper)
 [http://virtualenvwrapper.readthedocs.io/en/latest/install.html#quick-start](http://virtualenvwrapper.readthedocs.io/en/latest/install.html#quick-start)
 [http://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html](http://virtualenvwrapper.readthedocs.io/en/latest/command_ref.html)
 [http://virtualenvwrapper.readthedocs.io/en/latest/](http://virtualenvwrapper.readthedocs.io/en/latest/)
