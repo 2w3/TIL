@@ -18,12 +18,17 @@ slang dictionary
 
 # Behind the News
 [http://www.abc.net.au/btn/](http://www.abc.net.au/btn/)
-
-# BBC Leaning English
+# 개발자 영어  
+[https://opentutorials.org/course/235](https://opentutorials.org/course/235)  
+# BBC Learning English
 [http://www.bbc.co.uk/learningenglish/](http://www.bbc.co.uk/learningenglish/)
+# BBC Learning Pronunciation tips  
+[http://www.bbc.co.uk/worldservice/learningenglish/grammar/pron/](http://www.bbc.co.uk/worldservice/learningenglish/grammar/pron/)
 # KakaoDevelopers  
 [https://developers.kakao.com](https://developers.kakao.com)
 # developer roadmap  
 [https://github.com/kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)  
 # ECMAScript 6 modules: the final syntax  
 [http://2ality.com/2014/09/es6-modules-final.html?m=1](http://2ality.com/2014/09/es6-modules-final.html?m=1)  
+# gitignore.io  
+[https://www.gitignore.io](https://www.gitignore.io)  
