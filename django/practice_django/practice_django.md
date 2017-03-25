@@ -26,3 +26,5 @@ pip freeze
 or 
 ls -l ~/workspace/.virtualenvs/{created virtualenv}/lib/python2.6/site-packages/
 ```
+django settings.py middleware
+https://docs.djangoproject.com/ja/1.9/topics/http/middleware/
