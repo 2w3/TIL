@@ -32,3 +32,6 @@ slang dictionary
 [http://2ality.com/2014/09/es6-modules-final.html?m=1](http://2ality.com/2014/09/es6-modules-final.html?m=1)  
 # gitignore.io  
 [https://www.gitignore.io](https://www.gitignore.io)  
+# SSD cloud hosting  
+[https://www.vultr.com](https://www.vultr.com)  
+[https://www.digitalocean.com](https://www.digitalocean.com)  
