@@ -35,6 +35,9 @@ https://github.com/zsh-users/zsh-syntax-highlighting
 Cobalt2 for iTerm2 and Zsh
 https://github.com/wesbos/Cobalt2-iterm
 
+powerlevel9k
+https://github.com/bhilburn/powerlevel9k
+
 Reference Url
 https://nolboo.kim/blog/2015/08/21/oh-my-zsh/
 https://gist.github.com/agnoster/3712874
