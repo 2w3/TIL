@@ -92,20 +92,21 @@ Installing a single theme
 	
 hugo server -t {themename}
 
-
-
+hucore
+https://themes.gohugo.io/hucore/
 
 
 ## reference urls
-https://www.slideshare.net/MarcinGajda/hugo-make-webdev-fun-again
-https://libsora.so/posts/migration-from-pelican-to-hugo-post-mortem/
-https://blog.funspaces.org/2016/02/15/hugo-hyde-y-theme/
-https://blog.funspaces.org/2016/02/16/automated-deployments-with-wercker/
-http://brannpark.github.io/blog/posts/20151201_hugo_with_github_pages/
-http://kerberosj.tistory.com/216
-http://sabzil.org/hugo/
-https://blog.leehack.com/blog/2015/11/25/hugo-설치하기/
-https://golangkorea.github.io/post/hugo-intro/getting-started/
-http://credenda.blog.me/220574167327
-https://code.tutsplus.com/tutorials/make-creating-websites-fun-again-with-hugo-the-static-website-generator-written-in-go--cms-27319
+~~https://www.slideshare.net/MarcinGajda/hugo-make-webdev-fun-again~~
+~~https://libsora.so/posts/migration-from-pelican-to-hugo-post-mortem/~~
+~~https://asciinema.org/a/107230~~
+~~https://www.slideshare.net/lumolink/going-back-to-static-html-sites-sempro-2017~~
+~~https://blog.funspaces.org/2016/02/16/automated-deployments-with-wercker/~~
+~~http://brannpark.github.io/blog/posts/20151201_hugo_with_github_pages/~~
+~~http://kerberosj.tistory.com/216~~
+~~http://sabzil.org/hugo/~~
+~~https://blog.leehack.com/blog/2015/11/25/hugo-설치하기/~~
+~~https://golangkorea.github.io/post/hugo-intro/getting-started/~~
+~~http://credenda.blog.me/220574167327~~
+~~https://code.tutsplus.com/tutorials/make-creating-websites-fun-again-with-hugo-the-static-website-generator-written-in-go--cms-27319~~
 
