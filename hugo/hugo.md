@@ -95,6 +95,29 @@ hugo server -t {themename}
 hucore
 https://themes.gohugo.io/hucore/
 
+slim
+ghost-writer
+
+
+## git pages
+git init
+git remote add origin {repository}
+
+git add -A
+git commit -m "{commit message}"
+git push -u origin master
+
+git checkout --orphan gh-pages
+git merge master
+git push origin gh-pages
+
+
+## hugo public .gitignore
+echo "public" >> .gitignore
+
+
+
+
 
 ## reference urls
 ~~https://www.slideshare.net/MarcinGajda/hugo-make-webdev-fun-again~~
