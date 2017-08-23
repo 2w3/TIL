@@ -33,6 +33,11 @@ https://withrails.com/2009/12/13/macvim-한글설명/
 http://daybreaker.tistory.com/630
 
 
+macvim clipboard sharing
+~/.vimrc
+```set clipboard=unnamed```
+http://vim.wikia.com/wiki/Mac_OS_X_clipboard_sharing
+
 
 
 http://seorenn.blogspot.kr/2011/06/vim-macvim.html
