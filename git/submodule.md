@@ -36,6 +36,7 @@ git submodule {sub command} {path} {name}
 
 ~~git에서 git status를 실행하면 new file이 두개 생성되어 있습니다.~~  
 `git status`명령을 실행하면 .gitmodules, rack 두개의 파일을 볼 수 있다.
+
 ```
 $ git status
 # On branch master
@@ -44,9 +45,10 @@ $ git status
 #
 #      new file:   .gitmodules
 #      new file:   rack
-#```
+#
+```
 
-.gitmodules : 어떤 git module이 사용되고 있는지에 대한 정보를 저장하는 파일
+.gitmodules : 어떤 git module이 사용되고 있는지에 대한 정보를 저장하는 파일  
 ```
 $ cat .gitmodules
 [submodule "rack"]
@@ -58,7 +60,8 @@ submodule 갯수만큼 이 항목이 생긴다.
 .gitmodules도 .gitignore파일처럼 버전관리된다.  
 project clone하는 사람은 .gitmodules파일을 보고 어떤 submodule project가 있는지 알 수 있다.
 
-rack : submodule add시 지정한 submodule folder
+rack : submodule add시 지정한 submodule folder  
+
 ```
 $ git diff --cached rack
 diff --git a/rack b/rack
