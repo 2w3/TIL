@@ -3,6 +3,14 @@ https://docs.python.org/3.6/library/socket.html
 socket - Low-level networking interface
 
 1. socket families
+AF_UNIX  
+AF_INET  
+AF_INET6  
+AF_NETLINK  
+AF_TIPC  
+AF_CAN  
+AF_BLUETOOTH  
+AF_ALG  
 
 2. Module contents  
 2.1 Exceptions  
