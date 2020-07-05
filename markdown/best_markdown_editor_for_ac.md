@@ -13,11 +13,15 @@
    seamless live preview, hybrid Interface
    Free
 
+   my choice markdown editor
+
 3. ##### Stack Edit
 
    In-browser Markdown editor
 
    Free
+
+   when I am in hurry,
 
 4. ##### Atom
 
